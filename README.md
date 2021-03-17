@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vlad36N
 - 👀 I’m interested in Home automation/Smart Home
 - 🌱 I’m currently learning DevOps
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Home automation/Smart Home
 - 📫 How to reach me email
 
 <!---
